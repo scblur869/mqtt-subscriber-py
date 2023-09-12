@@ -1,0 +1,4 @@
+aiomqtt==1.2.0
+colorama==0.4.6
+paho_mqtt==1.6.1
+python-dotenv==1.0.0
